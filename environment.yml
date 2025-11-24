@@ -1,0 +1,21 @@
+name: lil-4571000
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.13
+- faker
+- ipykernel
+- ipywidgets
+- lxml
+- matplotlib
+- numpy
+- pandas
+- plotly
+- pyarrow
+- pydantic
+- scikit-learn
+- scipy
+- seaborn
+- statsmodels
+- tables
