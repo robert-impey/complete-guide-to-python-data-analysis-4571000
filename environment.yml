@@ -3,6 +3,7 @@ channels:
 - conda-forge
 - defaults
 dependencies:
+- conda-lock
 - faker
 - ipykernel
 - ipywidgets
