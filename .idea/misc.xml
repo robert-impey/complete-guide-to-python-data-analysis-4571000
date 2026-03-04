@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="lil-4571000" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="lil-4571000" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/miniconda3/envs/lil-4571000" project-jdk-type="Python SDK" />
 </project>
